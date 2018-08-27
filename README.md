@@ -38,9 +38,9 @@ list of contributors.
 
 ## FAQ’s:
 <ol>
-  <li>How to download  GenderMag Recorder’s Assistant (chrome extension):</li>
+  <li></li>
   
-  <li>What language do we use:</li>
+  <li></li>
   
-  <li>How much experience with Open Source do I need?</li>
+  <li></li>
 </ol>  
