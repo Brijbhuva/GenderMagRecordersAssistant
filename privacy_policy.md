@@ -9,16 +9,16 @@ The GenderMag Recorder’s Assistant ask questions during the Gendermag walkthro
 The GenderMag Recorder’s Assistant stores data in Google Chrome Local storage on the user’s machine. 
 
 * What data is in there?  
- The GenderMag Recorder’s Assistant stores all the questions, answers and screenshots from the prototype collected during the GenderMag walkthrough. The GenderMag Recorder’s Assistant never asks for personal data about the user.
+The GenderMag Recorder’s Assistant stores all the questions, answers and screenshots from the prototype collected during the GenderMag walkthrough. The GenderMag Recorder’s Assistant never asks for personal data about the user.
 
 * How long does that data existe?  
-At the end of  the GenderMag walkthrough when user click on “Quit GenderMag” and GenderMag Recorder’s Assistant stores zip file into the downloads folder.The zip contains a CSV file(which is excel usable) with the question and answers and an image folder with all screenshots. The Tool also removes the local storage file from Google Chrome’s Local storage on the user’s machine.
+At the end of  the GenderMag walkthrough when user click on “Quit GenderMag” and GenderMag Recorder’s Assistant stores zip file into the downloads folder. The zip contains a CSV file(which is excel usable) with the question and answers and an image folder with all screenshots. The Tool also removes the local storage file from Google Chrome’s Local storage on the user’s machine.
 
 * When GenderMag Recorder’s Assistant extension writes data?  
 As soon as the user enters data GenderMag Recorder’s Assistant write data in Google Chrome Local storage.
 
 * When GenderMag Recorder’s Assistant extension reads data?  
- GenderMag Recorder’s Assistant NEVER reads the data.
+GenderMag Recorder’s Assistant NEVER reads the data.
 
 ## CHANGES
 
